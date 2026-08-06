@@ -8,8 +8,21 @@ data/
 *.h5ad
 results/atlas/
 results/atlas_annotation/
+results/atlas_aging/
+results/atlas_aging_*.txt
 results/benchmark_data/
-results/atlas_aging/subclusters/
+reports/
+
+# Other analysis tracks / tooling not in scope for this repo
+# (live in the separate adipose-aging-atlas repo, or predate it)
+scripts/atlas/
+scripts/atlas_annotation/
+scripts/atlas_aging/
+scripts/load_utils.py
+scripts/00_*.py
+scripts/02_*.py
+scripts/03_*.py
+.claude/
 
 # Editor
 .vscode/
