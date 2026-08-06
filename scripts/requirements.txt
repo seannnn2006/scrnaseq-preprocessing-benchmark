@@ -1,0 +1,10 @@
+scanpy
+pandas
+anndata
+matplotlib
+scipy
+openpyxl
+leidenalg
+liana
+psutil
+# harmonypy   # 需要編譯 C++/BLAS，Windows 上建置失敗，之後再另外處理

@@ -1,0 +1,15 @@
+# Environments / caches
+venv/
+__pycache__/
+*.pyc
+
+# Raw and intermediate data (too large for git; see README)
+data/
+*.h5ad
+results/atlas/
+results/atlas_annotation/
+results/benchmark_data/
+results/atlas_aging/subclusters/
+
+# Editor
+.vscode/
